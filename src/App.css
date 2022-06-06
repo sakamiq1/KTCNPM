@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.form-wrapper {
+  border-radius: 20px;
+  padding: 10px;
+  background-color: #bae7ff;
+  width: 400px;
+}
+
+.section-div {
+  display: flex;
+  justify-content: center;
+}
+
+.rank-form > span {
+  width: 100px;
+}
